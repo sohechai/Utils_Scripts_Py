@@ -1,0 +1,13 @@
+# Fichiers générés par l'interpréteur Python
+__pycache__/
+
+# Fichiers de logs
+*.log
+*.txt
+
+# Fichiers de cache
+*.pyc
+*.pyo
+
+# Fichiers de virtualenv
+venv/
